@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+<servlet>
+<servlet-name>Controller</servlet-name>
+<servlet-class>controller.FrontController</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>Controller</servlet-name>
+<url-pattern>*.do</url-pattern>
+</servlet-mapping>
+</web-app>
