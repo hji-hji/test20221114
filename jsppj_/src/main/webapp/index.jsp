@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-git허브 사용하기
+
 <a href="./">헬로월드로 이동하기</a>
 <a href="/jsppj/First">서블릿 헬로 월드로 이동하기</a>
 
